@@ -1,2 +1,2 @@
-#Simple Calculator using Tkinter.
-Project Overview:
+# Simple Calculator using Tkinter
+Project Overview
