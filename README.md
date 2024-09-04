@@ -19,7 +19,7 @@ This project is Graphical User Interface(GUI) Calculator built using Python's Tk
    . Ensure you have Python installed on your system. this project uses the Tkinter library, which comes pre-installed with Python.
 
 # Steps:
-1. Clone the repository: 
+1. Clone the repository: https://github.com/ANKURKHATRI1-PRO/my-first-project1.git
 
 
 
