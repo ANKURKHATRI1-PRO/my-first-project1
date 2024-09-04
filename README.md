@@ -20,6 +20,7 @@ This project is Graphical User Interface(GUI) Calculator built using Python's Tk
 
 # Steps:
 1. Clone the repository: https://github.com/ANKURKHATRI1-PRO/my-first-project1.git
+2. Run the Calculator: 
 
 
 
